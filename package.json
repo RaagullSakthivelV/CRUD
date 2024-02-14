@@ -1,0 +1,19 @@
+{
+  "name": "expressapiauth",
+  "version": "1.0.0",
+  "description": "api with authentication",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon node.js"
+  },
+  "keywords": [
+    "auth",
+    "api"
+  ],
+  "author": "raagull sakthivel",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "type":"module"
+}
